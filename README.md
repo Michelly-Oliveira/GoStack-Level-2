@@ -15,3 +15,4 @@ Continue development of app GoBarber, and introduce concepts of authentication, 
 - Database (Postgres)
 - TypeORM
 - Multer
+- JWT (JSON Web Token)
